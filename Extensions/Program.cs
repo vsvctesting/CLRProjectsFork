@@ -7,7 +7,7 @@
 /// 
 /// </summary>
 /// 
-// New Comment
+// New Comment my new change
 public interface FooInterface
 {
     string Name { get; set; }
