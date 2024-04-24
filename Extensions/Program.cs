@@ -8,6 +8,8 @@
 /// </summary>asdfasdfsdafasdf
 /// 
 // New Comment my new change
+/// New comment
+/// new comment
 public interface FooInterface
 {
     string Name { get; set; }
