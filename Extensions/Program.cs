@@ -11,6 +11,7 @@
 /// New comment
 /// new comment
 /// // new comment
+/// new comment in 17.4
 public interface FooInterface
 {
     string Name { get; set; }
