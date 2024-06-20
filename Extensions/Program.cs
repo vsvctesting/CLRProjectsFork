@@ -12,6 +12,7 @@
 /// new comment
 /// // new comment
 /// new comment in 17.4
+/// new comment from remote origin
 public interface FooInterface
 {
     string Name { get; set; }
